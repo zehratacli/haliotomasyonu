@@ -1,0 +1,2 @@
+# haliotomasyonu
+C++ halıcı otomasyonu.
